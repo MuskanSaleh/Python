@@ -1,2 +1,2 @@
-A Simple Webpage Timer
-using loop and if else concept
+Basic Python Codes
+
