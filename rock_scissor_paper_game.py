@@ -52,7 +52,7 @@ while True:
                       print("Final you win the game....")
                       print("User Score ",ucount)
                       print("Computer Score ",ccount)
-            if ucount == ccount:
+            if ucount < ccount:
                      print("Final Computer win the game....")
                      print("User Score ",ucount)
                      print("Computer Score ",ccount)
